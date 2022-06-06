@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolejlaurin/CN.git"
+    "url": "git+https://github.com/nicolejlaurin/CN-test.git"
   },
   "author": "Nicole Laurin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicolejlaurin/CN/issues"
+    "url": "https://github.com/nicolejlaurin/CN-test/issues"
   },
-  "homepage": "https://github.com/nicolejlaurin/CN#readme"
+  "homepage": "https://nicolejlaurin.github.io/CN-test"
 }
